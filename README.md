@@ -1,7 +1,7 @@
 ### Hi there 👋 <Developers/>();
 
-Backend developer for 2 years
+Backend developer for 2 years 💻
 
 I like to eat 😋
 
-.NET Developer and Professional php developer, JavaScript junior developer...
+.NET Developer and Professional php developer, SQLite, JavaScript developer... 👨‍💻
