@@ -1,5 +1,5 @@
 ```diff
-<p align="center">- Hi there 👋 <Developers/>();</p>
+- Hi there 👋 <Developers/>();
 ```
 
 ```diff
