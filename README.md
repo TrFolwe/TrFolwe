@@ -6,7 +6,7 @@
 + Backend developer for 2 years 💻
 
 # I like to eat 😋
-# The absence of those whose existence brings nothing, does not lose anything.
+# "The absence of those whose existence brings nothing, does not lose anything." - Tolstoy
 
 ! .NET Developer and Professional php developer, SQLite, Web(Backend, ejs, vue.js, expressJs) and PureJs developer... 👨‍💻
 ```
