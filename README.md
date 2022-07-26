@@ -8,5 +8,5 @@
 # I like to eat 😋
 # "The absence of those whose existence brings nothing, does not lose anything." - Tolstoy
 
-! .NET Developer and Professional php developer, SQLite, Web(Backend, ejs, vue.js, expressJs) and PureJs developer... 👨‍💻
+! .NET Developer and Professional php developer, SQLite, Web(Backend, ejs, vue.js, expressJs, React) and PureJs developer... 👨‍💻
 ```
