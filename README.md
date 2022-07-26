@@ -1,4 +1,6 @@
-<span style="color: green">Hi there 👋 <Developers/>();</span>
+```diff
+- Hi there 👋 <Developers/>();
+```
 
 Backend developer for 2 years 💻
 
