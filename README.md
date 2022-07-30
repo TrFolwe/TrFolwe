@@ -16,9 +16,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS / EJS, ExpressJS / NodeJS / JavaFX / PH
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrFolwe)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TrFolwe&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TrFolwe&show_icons=true)
 
- ![GitHub metrics](https://metrics.lecoq.io/TrFolwe)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TrFolwe)
 
