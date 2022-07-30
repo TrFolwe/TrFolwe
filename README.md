@@ -3,5 +3,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrFolwe&layout=compact"><p/>
 <ul align="center">
   My popular languages
-  <button backround-color: "red">PHP</button>
+  <button style="background:red">PHP</button>
 </ul>
