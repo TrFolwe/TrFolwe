@@ -20,8 +20,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / EJS, ExpressJS / NodeJS / JavaFX / PH
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TrFolwe)  
 
-![GitHub metrics](https://metrics.lecoq.io/TrFolwe)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TrFolwe)  
+ 
 
 ![Profile views](https://gpvc.arturio.dev/TrFolwe)  
