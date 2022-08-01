@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
 <h2 align="center"><strong>I am Web Full-Stack Developer</strong></h2>
-<h3 align="center">Greetings to everyone, I'm Semih, 16 years old. I met software 3 years ago and it has become my biggest hobby, I recommend it to everyone, Happy coding :)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trfolwe&label=Profile%20views&color=0e75b6&style=flat" alt="trfolwe" /> </p>
 
@@ -21,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trfolwe&show_icons=true&locale=en" alt="trfolwe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trfolwe&" alt="trfolwe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trfolwe&" alt="trfolwe" /></p><h3 align="left">Greetings to everyone, I'm Semih, 16 years old. I met software 3 years ago and it has become my biggest hobby, I recommend it to everyone, Happy coding :)</h3>
