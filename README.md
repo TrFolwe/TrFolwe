@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">I am Web Full-Stack Developer Greetings to everyone, I'm Semih, 16 years old. I met software 3 years ago and it has become my biggest hobby, I recommend it to everyone, Happy coding :)</h3>
+<h3 align="center"><strong>I am Web Full-Stack Developer</strong> <br><br>Greetings to everyone, I'm Semih, 16 years old. I met software 3 years ago and it has become my biggest hobby, I recommend it to everyone, Happy coding :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trfolwe&label=Profile%20views&color=0e75b6&style=flat" alt="trfolwe" /> </p>
 
