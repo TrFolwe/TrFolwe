@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **React Native**
 
+- ✉ Contact: monitorminor28@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/semihince42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="semihince42" height="30" width="40" /></a>
