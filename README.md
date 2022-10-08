@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h2 align="center"><strong>I am Web Full-Stack Developer</strong></h2>
+<h2 align="center"><strong>I am Full-Stack Web Developer</strong></h2>
 <h3 align="left">Greetings to everyone, I'm Semih, 16 years old. I met software 3 years ago and it has become my biggest hobby, I recommend it to everyone, Happy coding :)</h3>
 
 - 🔭 I’m currently working on **Canvas Game**
