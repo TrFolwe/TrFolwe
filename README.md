@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Semih</h1>
-<h2 align="center"><strong>I'm Software Developer</strong></h2>
-<h3 align="left">Greetings to everyone, I'm Semih, 16 years old. I met software 3 years ago and it has become my biggest hobby, I recommend it to everyone, Happy coding :)</h3>
+<h2 align="center">Hi 👋🟢, I'm Semih | <i>🔵 Software Developer</i></h2>
 
-- 🔭 I’m currently working on **Canvas Game**
+<img src="https://github.com/TrFolwe/TrFolwe/assets/78105136/9a811b27-519c-4fe4-899f-3a3dd9998b7b">
 
-- 🌱 I’m currently learning **React Native**
-
-- ✉ Contact: monitorminor28@gmail.com
+<i>"Spring is the time for plans and projects." - Lev Tolstoy</i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
