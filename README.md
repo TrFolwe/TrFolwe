@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋🟢, I'm Semih | <i>🔵 Software Developer</i></h2>
+<h2 align="center">Hi 👋🟢, I'm Semih, from 🇹🇷 <i>🔵 Software Developer</i></h2>
 
 <img src="https://github.com/TrFolwe/TrFolwe/assets/78105136/9a811b27-519c-4fe4-899f-3a3dd9998b7b">
 
